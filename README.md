@@ -2,7 +2,7 @@
 
 A simple survey form created as part of the FreeCodeCamp curriculum for feedback collection.
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](surveyformScreenshot.png)
 
 ## Table of Contents
 
