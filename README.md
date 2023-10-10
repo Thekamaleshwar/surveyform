@@ -2,7 +2,7 @@
 
 A simple survey form created as part of the FreeCodeCamp curriculum for feedback collection.
 
-![Project Screenshot](surveyformScreenshot.png)
+![Project Screenshot](Survey formScreenshot.png)
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ This project is a survey form built using HTML and CSS. It was created as part o
 
 You can see a live demo of the project [here](#).
 
-![Demo Screenshot](surveyformScreenshot.png)
+![Demo Screenshot](Survey formScreenshot.png)
 
 ## Features
 
